@@ -1,15 +1,15 @@
 {
     "workflowApiVersion": "1.1",
     "metaData": {
-        "icon": "images/icon.png",
+        "icon": "images/LevLogoPurple.png",
         "iconSmall": "images/iconSmall.png",
         "category": "message"
     },
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "Lev+",
+          "description": "A Template for a Lev+ Journey Builder activity",
           "step1Label": "Configure Activity"
         }
     },
