@@ -3,9 +3,11 @@
     "metaData": {
         "icon": "images/LevLogoPurple.png",
         "iconSmall": "images/iconSmall.png",
-        "category": "message"
+        "category": "flow",
+        "isConfigured": true,
+        "configurationDisabled": true
     },
-    "type": "REST",
+    "type": "Rest",
     "lang": {
         "en-US": {
             "name": "Lev+",
